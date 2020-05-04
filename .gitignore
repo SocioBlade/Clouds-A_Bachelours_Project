@@ -59,3 +59,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 *.meta
+Cloud 2/Library/Artifacts
+Cloud 2/Library/ArtifactDB
+Cloud 2/Library/ShaderCache
+Cloud 2/Temp/UnityLockfile
+Cloud 2/Temp
