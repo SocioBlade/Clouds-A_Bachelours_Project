@@ -3,7 +3,10 @@ guid: ecece3d9702a7514cb91394e9829a144
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - quadMesh: {instanceID: 0}
+  - cloudMaterial: {instanceID: 0}
+  - camera: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

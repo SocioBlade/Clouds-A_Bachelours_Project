@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/Backup.unity
+- path: C:/Users/timpa/OneDrive/Dokument/GitHub/Clouds - Backup/Clouds-A_Bachelours_Project/Cloud
+    2/Assets/Backup.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
