@@ -249,7 +249,7 @@ MonoBehaviour:
   cloudHeight: 2.89
   quadMesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
   cloudMaterial: {fileID: 2100000, guid: 71577be77b5b6404ba4471ded2cd6abf, type: 2}
-  layer: 0
+  layer: 25
   camera: {fileID: 963194227}
 --- !u!23 &918173478
 MeshRenderer:
@@ -444,7 +444,7 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
+  serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
