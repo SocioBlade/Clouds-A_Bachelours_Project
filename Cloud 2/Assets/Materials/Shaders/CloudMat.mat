@@ -126,12 +126,12 @@ Material:
     - _CloudpanSpeed: 0.83
     - _Cloudpanspeed: 0.1
     - _Cutoff: 0.44
-    - _DepthFadeDistance: 33.45
+    - _DepthFadeDistance: 36.76
     - _DepthFadeDistance1: 1
     - _DetailNoiseSize: 0.02
     - _DetailNoiseSize1: 0.02
     - _DetailNormalMapScale: 1
-    - _DistanceFade: 230.87
+    - _DistanceFade: 1913.3
     - _DistanceFade1: 1
     - _DstBlend: 10
     - _Float1: 5.94
@@ -140,7 +140,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _MarchDistance: 5.53
+    - _MarchDistance: 3.6
     - _MarchDistance1: 1
     - _Metallic: 0
     - _MiddaySSSPower: 36.3
@@ -159,17 +159,17 @@ Material:
     - _SSSPower: 2.3
     - _SSSPower1: 56.4
     - _SSSStrenght: 1.08
-    - _SSSStrength: 1.89
+    - _SSSStrength: 1.67
     - _SSSStrength1: 1
     - _ShadingPower: 5.64
     - _ShadingPower1: 2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _SunriseSunsetSSSPower: 3.32
+    - _SunriseSunsetSSSPower: 1
     - _SunriseSunsetSSSPower1: 2.43
     - _SunsetSunriseSSSPower: 4.4
-    - _TaperPower: 1.65
+    - _TaperPower: 1.36
     - _ToTaper: 5.4
     - _TopLightingMultiplier: 3.57
     - _TopTaper: 0
@@ -179,8 +179,8 @@ Material:
     - _WindQuality: 0
     - _ZWrite: 0
     - __dirty: 0
-    - _cloudHeight: 4.34
-    - _midYValue: 6.93
+    - _cloudHeight: 5.77
+    - _midYValue: 16.65
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
