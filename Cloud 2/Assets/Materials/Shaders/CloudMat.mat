@@ -180,7 +180,7 @@ Material:
     - _ZWrite: 0
     - __dirty: 0
     - _cloudHeight: 5.77
-    - _midYValue: 16.65
+    - _midYValue: 24.4
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
