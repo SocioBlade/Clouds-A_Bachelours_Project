@@ -108,30 +108,31 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _BlendTweaker: 1.14
-    - _BottomLightingMultiplier: -1.94
-    - _BottomTaper: 0
+    - _BlendTweaker: 0.07
+    - _BottomLightingMultiplier: 28.25
+    - _BottomTaper: 0.08
     - _BottomTaper1: 3.34
     - _BumpScale: 1
     - _CloudCutoff: 0.892
     - _CloudFluctuations: 0
     - _CloudFluctuations1: 0.6
-    - _CloudSofness: 5.73
+    - _CloudSofness: 4
     - _CloudSoftness: 0.53
     - _CloudSoftness1: 2.41
     - _CloudSpeed: 4.5
     - _CloudSpeed1: 3.18
-    - _CloudStrength: 0.5
+    - _CloudStrength: 0.51
     - _CloudStrength1: 1
-    - _CloudpanSpeed: 0.83
+    - _CloudpanSpeed: 0.38
     - _Cloudpanspeed: 0.1
     - _Cutoff: 0.44
-    - _DepthFadeDistance: 36.76
+    - _DepthFadeDistance: 59.82
     - _DepthFadeDistance1: 1
+    - _DestortSize: 0.51
     - _DetailNoiseSize: 0.02
     - _DetailNoiseSize1: 0.02
     - _DetailNormalMapScale: 1
-    - _DistanceFade: 1913.3
+    - _DistanceFade: 2519
     - _DistanceFade1: 1
     - _DstBlend: 10
     - _Float1: 5.94
@@ -140,13 +141,13 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _MarchDistance: 3.6
+    - _MarchDistance: 2.1
     - _MarchDistance1: 1
     - _Metallic: 0
     - _MiddaySSSPower: 36.3
     - _MiddaySSSPower1: 9.4
     - _Mode: 3
-    - _NoiseSize: -0.02
+    - _NoiseSize: 1.31
     - _NoiseSize1: 3.6
     - _NoiseTextureHigherSize: 0.08
     - _NoiseTextureLowerSize: 0.029594777
@@ -155,13 +156,13 @@ Material:
     - _Parallax: 0.02
     - _RimBoost: 1
     - _RimBoost1: 1.05
-    - _RimMultiplier: 2.8
+    - _RimMultiplier: 6.31
     - _SSSPower: 2.3
     - _SSSPower1: 56.4
     - _SSSStrenght: 1.08
-    - _SSSStrength: 1.67
+    - _SSSStrength: 1.19
     - _SSSStrength1: 1
-    - _ShadingPower: 5.64
+    - _ShadingPower: 1.18
     - _ShadingPower1: 2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -169,18 +170,19 @@ Material:
     - _SunriseSunsetSSSPower: 1
     - _SunriseSunsetSSSPower1: 2.43
     - _SunsetSunriseSSSPower: 4.4
-    - _TaperPower: 1.36
+    - _TaperPower: 0.96
     - _ToTaper: 5.4
-    - _TopLightingMultiplier: 3.57
-    - _TopTaper: 0
+    - _TopLightingMultiplier: 3.2
+    - _TopTaper: -0.12
     - _TopTaper1: 2.88
     - _UVSec: 0
     - _VerticalFalloff: 0.165
     - _WindQuality: 0
     - _ZWrite: 0
     - __dirty: 0
-    - _cloudHeight: 5.77
+    - _cloudHeight: 33
     - _midYValue: 24.4
+    - _newCloudStrenmgth: 3.1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

@@ -42,7 +42,7 @@ public class PerlinTexture : MonoBehaviour
         texture.wrapMode = TextureWrapMode.Repeat;
         texture.filterMode = FilterMode.Trilinear;
         texture.anisoLevel = 9;
-        //GetComponent<MeshRenderer>().material.mainTexture = texture;    
+        GetComponent<MeshRenderer>().material.mainTexture = texture;    
         GetComponent<CloudShape>().cloudMaterial.SetTexture("_CloudTexture", texture);
 
     }
