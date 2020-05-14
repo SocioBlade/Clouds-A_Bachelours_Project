@@ -314,8 +314,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecece3d9702a7514cb91394e9829a144, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  horizontalStackSize: 266
-  cloudHeight: 2.89
+  horizontalStackSize: 1500
+  cloudHeight: 5.61
   quadMesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
   cloudMaterial: {fileID: 2100000, guid: 71577be77b5b6404ba4471ded2cd6abf, type: 2}
   layer: 25
@@ -396,7 +396,7 @@ MonoBehaviour:
   pattern: 0
   type: 1
   resolution: 512
-  frequency: 9.4
+  frequency: 7.76
   octaves: 8
   lacunarity: 3.64
   persistence: 0.5
